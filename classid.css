@@ -1,0 +1,18 @@
+h1,h2 {
+    color:blueviolet;
+}
+.text-red {
+    color: red;
+}
+
+.font-small {
+    font-size: 15 px;
+}
+
+.font-medium {
+    font-size: 25px;
+}
+
+.font-large {
+    font-size: 35px;
+}
